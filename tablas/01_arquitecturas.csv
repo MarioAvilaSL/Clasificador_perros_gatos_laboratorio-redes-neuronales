@@ -1,0 +1,7 @@
+Modelo,Grupo,Tipo,Parametros totales,Parametros entrenables
+Denso,Sin aumento de datos,denso,1522951,1522951
+CNN,Sin aumento de datos,cnn,1372873,1372873
+CNN2 (Dropout 0.5),Sin aumento de datos,cnn,3293173,3293173
+Denso + AD,Con aumento de datos,denso,1522951,1522951
+CNN + AD,Con aumento de datos,cnn,1372873,1372873
+CNN2 (Dropout 0.5) + AD,Con aumento de datos,cnn,3293173,3293173
